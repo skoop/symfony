@@ -1,6 +1,8 @@
 README
 ======
 
+SYMFONY ROCKS
+
 What is Symfony2?
 -----------------
 
